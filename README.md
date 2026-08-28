@@ -1,0 +1,2 @@
+<img width="1365" height="680" alt="johnny" src="https://github.com/user-attachments/assets/651030f6-9fee-4a14-9222-a0cc02f87ac4" />
+This project demonstrates password-cracking techniques using John the Ripper (JtR) in a controlled cybersecurity lab environment. It covers password hash extraction, dictionary-based password cracking, and analysis of recovered passwords. The exercise helps develop practical skills in password security, ethical hacking, and digital forensics.
