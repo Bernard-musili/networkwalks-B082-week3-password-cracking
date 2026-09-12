@@ -1,5 +1,6 @@
 <img width="1365" height="680" alt="johnny" src="https://github.com/user-attachments/assets/651030f6-9fee-4a14-9222-a0cc02f87ac4" />
 <img width="476" height="291" alt="kali linux " src="https://github.com/user-attachments/assets/16d1f3f3-77df-4631-813f-6d60b4f0961f" />
+
 # NetworkWalks B082 — Week 3: Password Security Assessment
 
 ## Project Overview
